@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a penultimate Computer Science Undergraduate from National University of Singapore with a Parallel Computing
+and Artificial Intelligence specialization. Passionate about building scalable products and particularly interested in working with low-level systems.
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zunedz&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zunedz&hide=jupyter%20notebook&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
